@@ -12,3 +12,5 @@ print(string[::-1])
 #     print('test')
 # else:
 #     print('true')
+
+test
