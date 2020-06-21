@@ -13,7 +13,7 @@ git push -u origin master
 
 # 이후 업데이트
 git add .
-git commit -m "xx commit"
+git commit -m "xxx commit"
 git push
 
 # 저장소 -> 로컬
